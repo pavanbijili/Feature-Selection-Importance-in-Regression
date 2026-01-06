@@ -1,4 +1,3 @@
-📊 Student Marks Prediction
 🎯 Feature Selection Impact using F-Regression
 
 This project demonstrates how feature selection affects model performance by comparing RMSE and R² score before and after feature selection using F-Regression (ANOVA F-test) with a Linear Regression model.
